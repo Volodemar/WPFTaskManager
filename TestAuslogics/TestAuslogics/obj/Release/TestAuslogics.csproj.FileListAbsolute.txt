@@ -1,0 +1,17 @@
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\bin\Release\TestAuslogics.exe.config
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\bin\Release\TestAuslogics.exe
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\bin\Release\TestAuslogics.pdb
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\MainWindow.g.cs
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\App.g.cs
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics_MarkupCompile.cache
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics_MarkupCompile.lref
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\MainWindow.baml
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.g.resources
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.Properties.Resources.resources
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.csproj.GenerateResource.cache
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.csproj.CoreCompileInputs.cache
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.exe
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.pdb
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.csprojAssemblyReference.cache
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Work\Тестовые задания\Auslogics HR\TestAuslogics\TestAuslogics\obj\Release\TestAuslogics.csproj.ResolveComReference.cache
